@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 - typescript
 - express js
-=======
->>>>>>> 129db578eb8cc29d31abdc4ed35a14b1d75a1121
 - mastering react native
 - mastering react
 - tailwind css
+
+- chakra ui
