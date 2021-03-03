@@ -1,3 +1,5 @@
 - typescript
-- laravel
 - express js
+- mastering react native
+- mastering react
+- tailwind css
